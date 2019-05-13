@@ -1,0 +1,56 @@
+/*****BODY*****/
+body {
+	background:url(symphony.png) repeat;
+	color:DimGray;
+	font-family: 'Montserrat', sans-serif;
+	margin:0px;
+	text-align:center;
+}
+
+/*****HEADER*****/
+.wrapper {
+	margin-top:150px;
+}
+h1 {
+	border:10px solid tomato;
+	color:tomato;
+	display:inline;
+	margin-bottom:0px;
+	padding:30px;
+}
+
+
+
+/*****CONTACT*****/
+contact{
+	border: 1px solid grey;
+    margin: 30px auto;
+    width: 50%;
+}
+h2 { 
+	color:Salmon;
+	margin-top: 40px;
+    padding: 30px;
+}
+span{
+	color:DarkSeaGreen;
+}
+#email{
+	color:DarkSeaGreen;
+	text-decoration:none;
+}
+
+/*****FOOTER*****/
+footer{
+	border: 1px solid grey;
+    margin: 30px auto;
+    width: 50%;
+}
+
+footer p{
+	font-style:italic;
+	font-size:20px;
+	line-height:30px;
+	margin-top:50px;
+}
+
